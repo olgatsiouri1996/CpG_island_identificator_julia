@@ -1,4 +1,4 @@
-# CpG_island_identificator_julia
+# CpG_island_identificator_julia [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6595903.svg)](https://doi.org/10.5281/zenodo.6595903)
 CpG island identification using the Gardiner-Garden and Frommer (1987) method that exports the results in a txt file containing the id, start, end, strand, gc content and obs/exp ratio   
 
 ## Dependences
