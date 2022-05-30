@@ -30,7 +30,7 @@ function parse_commandline()
             required = false
         "--out"
             help = "output txt file"
-            required = false
+            required = true
     end
     return parse_args(s)
 end
